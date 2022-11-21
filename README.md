@@ -4,6 +4,7 @@ Inventory for the ecommerce platform is managed in Strapi headless CMS and queri
 
 ## Getting Started
 
+Use node v14.19.1 .
 To install dependencies
 
 ```bash
