@@ -1,6 +1,6 @@
 # Les Meubles Backend
 
-Inventory for the ecommerce platform is managed in Strapi headless CMS and queried via the GraphQL API. Images uploaded to Strapi are automatically optimized in Cloudinary.
+Inventory for the ecommerce platform is managed in Strapi headless CMS and queried via the GraphQL API. Cloudinary is integrated into this project via the cloudinary provider package. Images uploaded to Strapi are optimized by and retrieved from Cloudinary.
 
 ## Getting Started
 
